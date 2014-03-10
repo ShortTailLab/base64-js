@@ -1,0 +1,9 @@
+{
+	"name":"base64",
+	"version":"0.1.0",
+	"repo":"ShortTailLab/base64",
+	"description":"Base64 encoder/decoder",
+	"keywords":["base64","encoder","decoder"],
+	"scripts":["index.js"],
+	"license": "BSD"
+}
